@@ -16,7 +16,8 @@
 
 **Ответ**
 
-![Снимок27](https://github.com/AlexanderSchelokov/SQL.-Part-1-hw/assets/121572590/7f9ecdf8-e251-4de7-acb3-9a6f8ebdca45)
+![Снимок31](https://github.com/AlexanderSchelokov/SQL.-Part-1-hw/assets/121572590/134c7dea-56f0-4fe5-9dfa-2e4a94a595e7)
+
 
 ***
 
